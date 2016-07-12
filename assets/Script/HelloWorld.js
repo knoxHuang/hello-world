@@ -1,6 +1,6 @@
 cc.Class({
     extends: cc.Component,
-
+    // defaults, set visually when attaching this script to the Canvas
     properties: {
         label: {
             default: null,
